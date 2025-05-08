@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main (){
+   int nota1 = 15;
+   int nota2 = 15;
+   int nota3 = 15;
+   int media;
+
+    media = (nota1+nota2+nota3)/3;
+
+printf ("A media aritmetica e: %d", media);
+
+return 0;
+}
