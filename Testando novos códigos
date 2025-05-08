@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main (){
+    int Mynum;
+    char Myfavoriteletter;
+printf ("Meu numero favorito �: %d\n e minha letra favorita �: %c", 27, 'L' );
+
+return 0;
+}
